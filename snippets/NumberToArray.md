@@ -2,7 +2,7 @@
 
 ### Code: 
 ```js
-const numberToArrray = number => [...`${number}`].map(element => parseInt(element));
+const numberToArray = number => [...`${number}`].map(element => parseInt(element));
 ```
 ### Examples:
 ```js
